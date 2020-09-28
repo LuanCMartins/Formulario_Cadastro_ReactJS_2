@@ -1,2 +1,2 @@
-# Formulario_Cadastro_ReactJS_2
+# Formulario de Cadastro em ReactJS (upgrade)
 Formulario de cadastro melhorado em ReactJS
